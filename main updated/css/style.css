@@ -2461,11 +2461,6 @@ textarea.form-control {
   padding-bottom: 55rem;
 }
 
-.ftco-footer{
-  margin-top: 1rem;
-  background-color: #0f101c;
-  padding-bottom: 1.4rem;
-}
 .col-md-12{
   margin-top: 2rem;
 }
@@ -2488,6 +2483,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   padding: 7em 0;
+ height: 83vh;
   background: #0f101c; }
   .ftco-footer .ftco-footer-widget h2 {
     font-weight: normal;
